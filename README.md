@@ -6,7 +6,8 @@ Used following functions of PowerBI:
 2. Created DAX Measures for metrics computation
 3. Created interactive dashboard to understand and analyze the metrics based on different base parameters like no of boxes, shipments, costs, sales, and/ or % profit.
 
-[Portfolio Dashboard] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc907527-4095-43b4-973c-099f94774d60" />
+[Portfolio Dashboard] <img width="1284" height="716" alt="image" src="https://github.com/user-attachments/assets/f942de33-d988-4757-8f49-2aff905c9672" />
+
 
 
 
